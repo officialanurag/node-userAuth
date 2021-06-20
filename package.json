@@ -22,6 +22,6 @@
     "body-parser": "~1.0.1",
     "express": ">=4.5.0",
     "jsonwebtoken": "^8.4.0",
-    "mongoose": "~3.6.13"
+    "mongoose": "~5.10.2"
   }
 }
